@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Ona sahifa"
+         android:icon="@drawable/baseline_home_24"
+        android:onClick="ona_sahifa"
+        >
+
+    </item>
+    <item android:title="" ></item>
+    <item android:title="Buyurtmalarim"
+        android:onClick="buyurtma"
+        android:icon="@drawable/baseline_shopping_bag_24" ></item>
+</menu>
